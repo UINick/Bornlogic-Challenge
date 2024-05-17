@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		A8CC20072BF633E3006A1552 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CC20062BF633E3006A1552 /* AppDelegate.swift */; };
 		A8CC20092BF633E3006A1552 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CC20082BF633E3006A1552 /* SceneDelegate.swift */; };
-		A8CC200B2BF633E3006A1552 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CC200A2BF633E3006A1552 /* ViewController.swift */; };
+		A8CC200B2BF633E3006A1552 /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CC200A2BF633E3006A1552 /* NewsViewController.swift */; };
 		A8CC20102BF633E4006A1552 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8CC200F2BF633E4006A1552 /* Assets.xcassets */; };
 		A8CC20132BF633E4006A1552 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8CC20112BF633E4006A1552 /* LaunchScreen.storyboard */; };
 		A8CC201B2BF6CF24006A1552 /* NewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8CC201A2BF6CF24006A1552 /* NewsCell.swift */; };
@@ -22,7 +22,7 @@
 		A8CC20032BF633E3006A1552 /* Bornlogic-Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bornlogic-Challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8CC20062BF633E3006A1552 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8CC20082BF633E3006A1552 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A8CC200A2BF633E3006A1552 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A8CC200A2BF633E3006A1552 /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 		A8CC200F2BF633E4006A1552 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8CC20122BF633E4006A1552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8CC20142BF633E4006A1552 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 				A8CC20202BF6F088006A1552 /* Util */,
 				A8CC20062BF633E3006A1552 /* AppDelegate.swift */,
 				A8CC20082BF633E3006A1552 /* SceneDelegate.swift */,
-				A8CC200A2BF633E3006A1552 /* ViewController.swift */,
+				A8CC200A2BF633E3006A1552 /* NewsViewController.swift */,
 				A8CC200F2BF633E4006A1552 /* Assets.xcassets */,
 				A8CC20112BF633E4006A1552 /* LaunchScreen.storyboard */,
 				A8CC20142BF633E4006A1552 /* Info.plist */,
@@ -163,7 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8CC20222BF6F097006A1552 /* TableViewCellProtocol.swift in Sources */,
-				A8CC200B2BF633E3006A1552 /* ViewController.swift in Sources */,
+				A8CC200B2BF633E3006A1552 /* NewsViewController.swift in Sources */,
 				A8CC20072BF633E3006A1552 /* AppDelegate.swift in Sources */,
 				A8CC201D2BF6D80E006A1552 /* NewsViewModel.swift in Sources */,
 				A8CC201F2BF6EFD4006A1552 /* NewsItemModel.swift in Sources */,

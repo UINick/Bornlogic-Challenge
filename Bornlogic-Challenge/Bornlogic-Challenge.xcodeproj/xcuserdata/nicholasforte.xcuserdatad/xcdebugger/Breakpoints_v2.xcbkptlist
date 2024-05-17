@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9516D6DE-AB17-4F5B-9229-BF323465AB14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bornlogic-Challenge/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2 - 8062510f17d37543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Bornlogic_Challenge.NewsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2 - 8166fe8b3859abd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bornlogic_Challenge.NewsModel) -&gt; () in closure #1 @Sendable () async throws -&gt; () in Bornlogic_Challenge.NewsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2 - 8062510f17d37543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Bornlogic_Challenge.NewsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2 - 8062510f17d37543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Bornlogic_Challenge.NewsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2 - 8062510f17d37543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Bornlogic_Challenge.NewsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "0C780846-FB15-40B4-A656-435AF8A08DE2 - 8166fe8b3859abd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bornlogic_Challenge.NewsModel) -&gt; () in closure #1 @Sendable () async throws -&gt; () in Bornlogic_Challenge.NewsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bornlogic-Challenge/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 62df1a8c3434b319"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Swift.Array&lt;Bornlogic_Challenge.NewsModel&gt;, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 42da95e51d028178"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bornlogic_Challenge.NewsModel) -&gt; () in Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Swift.Array&lt;Bornlogic_Challenge.NewsModel&gt;, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 71c0da6a41306618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 1d75a59a1329689d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bornlogic_Challenge.NewsModel) -&gt; () in Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 71c0da6a41306618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 71c0da6a41306618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "0EA9472C-F1D9-484D-B048-41BC66A6FC77 - 1d75a59a1329689d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bornlogic_Challenge.NewsModel) -&gt; () in Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09504C13-9758-4C25-B560-57D8D30BAC4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bornlogic-Challenge/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09504C13-9758-4C25-B560-57D8D30BAC4C - 62df1a8c3434b0bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Swift.Array&lt;Bornlogic_Challenge.NewsModel&gt;, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1456">
+               </Location>
+               <Location
+                  uuid = "09504C13-9758-4C25-B560-57D8D30BAC4C - 71c0da6a413065bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1504">
+               </Location>
+               <Location
+                  uuid = "09504C13-9758-4C25-B560-57D8D30BAC4C - 71c0da6a413065bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1448">
+               </Location>
+               <Location
+                  uuid = "09504C13-9758-4C25-B560-57D8D30BAC4C - 71c0da6a413065bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0401611-28F5-43EC-B8C2-3B5A49C24289"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bornlogic-Challenge/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0401611-28F5-43EC-B8C2-3B5A49C24289 - 62df1a8c3434b243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Swift.Array&lt;Bornlogic_Challenge.NewsModel&gt;, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "C0401611-28F5-43EC-B8C2-3B5A49C24289 - 71c0da6a41306742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+               <Location
+                  uuid = "C0401611-28F5-43EC-B8C2-3B5A49C24289 - 71c0da6a41306742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "C0401611-28F5-43EC-B8C2-3B5A49C24289 - 71c0da6a41306742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Bornlogic_Challenge.NewsViewModel.getNews() async throws -&gt; Swift.Result&lt;Bornlogic_Challenge.ArticlesModel, Swift.Error&gt;"
+                  moduleName = "Bornlogic-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicholasforte/Desktop/Bornlogic/Bornlogic-Challenge/Bornlogic-Challenge/Bornlogic-Challenge/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F2447E3-9308-44A0-834C-C032D030B890"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bornlogic-Challenge/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getNews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

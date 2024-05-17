@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  NewsViewController.swift
 //  Bornlogic-Challenge
 //
 //  Created by Nicholas Forte on 16/05/24.
@@ -30,6 +30,21 @@ class NewsViewController: UIViewController {
             self.tableView.trailingAnchor.constraint(equalTo: self.view.trailingAnchor),
             self.tableView.bottomAnchor.constraint(equalTo: self.view.bottomAnchor)
         ])
+        
+        Task {
+            let result = try await viewModel.getNews()
+            switch result {
+                case .success(let news):
+                news.articles.forEach({
+                    viewModel.newsArray.append(NewsItemModel(title: $0.title!, img: ""))
+                })
+                DispatchQueue.main.async {
+                    self.tableView.reloadData()
+                }
+                case .failure(let error):
+                print("erro = \(error.localizedDescription)")
+            }
+        }
     }
 }
 
