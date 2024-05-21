@@ -40,8 +40,8 @@ class NewsCell: UITableViewCell {
         return lbl
     }()
     
-    lazy var viewImage: UIView = {
-        let view = UIView()
+    lazy var viewImage: UIImageView = {
+        let view = UIImageView()
         view.layer.cornerRadius = 4
         view.layer.maskedCorners = [.layerMinXMinYCorner, .layerMinXMaxYCorner]
         return view
@@ -72,7 +72,6 @@ class NewsCell: UITableViewCell {
     
     func setEvenLayout() {
         //impar
-        self.viewImage.backgroundColor = .red
         NSLayoutConstraint.deactivate(viewImage.constraints)
         self.viewImage.translatesAutoresizingMaskIntoConstraints = false
         NSLayoutConstraint.activate([
@@ -86,7 +85,6 @@ class NewsCell: UITableViewCell {
     
     func setOddsLayout() {
         //par
-        self.viewImage.backgroundColor = .blue
         NSLayoutConstraint.deactivate(viewImage.constraints)
         self.viewImage.translatesAutoresizingMaskIntoConstraints = false
         NSLayoutConstraint.activate([
@@ -103,6 +101,7 @@ extension NewsCell: TableViewCellProtocol {
     func bind(with data: TableViewCellModelProtocol) {
         if let model = data as? NewsItemModel {
             self.newsTitle.text = model.title
+            self.viewImage.load(urlString: model.img)
             if model.index! % 2 == 0 {
                 setOddsLayout()
             } else {

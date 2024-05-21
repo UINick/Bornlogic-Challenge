@@ -36,7 +36,7 @@ class NewsViewController: UIViewController {
             switch result {
                 case .success(let news):
                 news.articles.forEach({
-                    viewModel.newsArray.append(NewsItemModel(title: $0.title!, img: ""))
+                    viewModel.newsArray.append(NewsItemModel(title: $0.title!, img: $0.urlToImage ?? ""))
                 })
                 DispatchQueue.main.async {
                     self.tableView.reloadData()
