@@ -13,5 +13,5 @@ protocol TableViewCellProtocol {
 
 protocol TableViewCellModelProtocol {
     var cellIdentifier: String { get }
-    var index: Int? {get}
+    var index: Int? {get set}
 }

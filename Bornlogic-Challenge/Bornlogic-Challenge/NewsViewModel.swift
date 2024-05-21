@@ -9,11 +9,7 @@ import Foundation
 
 class NewsViewModel {
 
-    init() {
-        
-    }
-    
-    var newsArray: [TableViewCellModelProtocol] = [NewsItemModel(title: "", img: "")]
+    var newsArray: [TableViewCellModelProtocol] = []
     
     
     func getNews() async throws -> Result<ArticlesModel, Error>{
@@ -29,9 +25,6 @@ class NewsViewModel {
         do {
             let decoder = JSONDecoder()
             let result = try decoder.decode(ArticlesModel.self, from: data)
-            result.articles.forEach({
-                print("Dados que retornaram = \($0.title)")
-            })
             return .success(result)
         } catch {
             return .failure(NewsError.invalidResponse)
